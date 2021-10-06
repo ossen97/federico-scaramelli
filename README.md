@@ -2,7 +2,7 @@
 
 🎮 I’m interested in Game Developement and have a good experience with Unity
 
-💻🎓 I’m currently a MSc Computer Science student at UniMi
+🎓 I’m currently a MSc Computer Science student at UniMi
 
 📫 You can reach me on my professional email address f.scaramelli0@gmail.com
 
