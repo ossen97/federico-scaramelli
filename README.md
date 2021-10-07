@@ -4,7 +4,7 @@
 
 🎓 I’m currently a MSc Computer Science student at UniMi
 
-📫 You can reach me on my professional email address f.scaramelli0@gmail.com
+📫 You can reach me on f.scaramelli0@gmail.com
 
 🌐 You can check my work on this page and on my [itch.io page](https://federicoscaramelli.itch.io/)
 
