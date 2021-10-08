@@ -6,7 +6,7 @@
 
 📫 You can reach me on f.scaramelli0@gmail.com
 
-🌐 You can check my work on this page and on my [itch.io page](https://federicoscaramelli.itch.io/)
+🌐 Play my games on my [itch.io page](https://federicoscaramelli.itch.io/)
 
 <!---
 federico-scaramelli/federico-scaramelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
